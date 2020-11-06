@@ -28,7 +28,7 @@ nav ul {
     list-style: none;
     width: 40%;
     justify-content: space-between;
-    transition: all 0.5s;
+    transition: all 1s;
 }
 
 nav ul.slide {
