@@ -33,6 +33,7 @@ nav ul {
 
 nav ul.slide {
     transform: translateX(0);
+    opacity: 1;
 }
 
 nav ul li a {
@@ -124,6 +125,7 @@ nav ul li a:hover{
         align-items: center;
         z-index: -1;
         transform: translateX(100%);
+        opacity: 0;
     }
 
     .menu-toggle {
